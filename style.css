@@ -34,6 +34,10 @@ body{
     padding:0 auto;
 }
 
+.menu ul {
+    list-style:none;
+}
+  
 .menu ul li a {
     float:left;
     width:70px;
@@ -49,5 +53,6 @@ body{
 }
 
   
+
 
 
