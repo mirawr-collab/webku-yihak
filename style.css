@@ -1,10 +1,10 @@
 body
 {
-  background-color:#3ab54e;
+  background-color:#9dd295;
 
 }
 body{
-    background:#3ab54e;
+    background:#9dd295;
     color:#333;
     width:100%;
     font-family:sans-serif;
@@ -25,7 +25,7 @@ body{
 }
 
 .menu{
-    background-color:#3ab54e;
+    background-color:#ff8f;
     height:50px;
     line-height:50px;
     position:relative;
