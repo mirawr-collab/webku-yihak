@@ -1,11 +1,11 @@
 body
 {
-  background-color:#98fb98;
+  background-color:#3ab54e;
 
 }
 body{
-    background:#99fb98;
-    color:#000000;
+    background:#3ab54e;
+    color:#333;
     width:100%;
     font-family:sans-serif;
     margin:0 auto;
@@ -16,8 +16,8 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#b4cde6;
-    color:#b4cde6;
+    background:#4682b4;
+    color:#4682b4;
 }
 
 .jarak{
@@ -25,7 +25,7 @@ body{
 }
 
 .menu{
-    background-color:#ff0084;
+    background-color:#3ab54e;
     height:50px;
     line-height:50px;
     position:relative;
