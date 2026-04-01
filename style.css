@@ -4,7 +4,7 @@ body
 
 }
 body{
-    background:#a4c639;
+    background:#cee3be;
     color:#333;
     width:100%;
     font-family:palaatino linotype;
@@ -62,7 +62,7 @@ body{
 }
 
 .border{
-    border:2px solid #cee3be;
+    border:2px solid #a4c639;
     margin-top:1pc;
     padding-bottom:1pc;
     padding-left:2pc;
